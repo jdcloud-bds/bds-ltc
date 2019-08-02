@@ -1,0 +1,1920 @@
+[33mcommit bacefbc6f904f6748088df2b3fb7a37cf378f6df[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: wangxuewei15 <wanghuanyu15@jd.com>
+Date:   Thu Aug 1 12:42:39 2019 +0800
+
+    add github issue template.
+
+[33mcommit 88e37abf4102aae0617c9859f0fad65a0bde6192[m
+Author: wangxuewei15 <wanghuanyu15@jd.com>
+Date:   Thu Aug 1 11:46:56 2019 +0800
+
+    bds-ltc
+
+[33mcommit c27d243d3263a75ce96f0caf5996792f7e41d44d[m
+Merge: a09606cd9 d9ca4317a
+Author: Yan Guoqi <yanguoqi@jd.com>
+Date:   Mon May 6 18:26:41 2019 +0800
+
+    Merge branch 'patch-1' into 'v0.16.3-jbri'
+    
+    Patch 1
+    
+    See merge request jbri/litecoin!5
+
+[33mcommit d9ca4317ac083d8cd65bdf7917446e1c9886e4ca[m
+Author: Pan Gang <pangang@jd.com>
+Date:   Mon May 6 18:13:58 2019 +0800
+
+    Update client.cpp
+
+[33mcommit c7214aec10d38b992e915cc78b40d57b63e0a8dc[m
+Author: Pan Gang <pangang@jd.com>
+Date:   Mon May 6 18:12:10 2019 +0800
+
+    Update blockchain.cpp
+
+[33mcommit a09606cd9cdb0dc30442e1733d61d4deac9e1845[m
+Merge: 40900ccf2 a7cdba958
+Author: Yan Guoqi <yanguoqi@jd.com>
+Date:   Mon Dec 24 20:49:23 2018 +0800
+
+    Merge branch 'patch-1' into 'v0.16.3-jbri'
+    
+    change limit from 1000 to 10000
+    
+    See merge request jbri/litecoin!4
+
+[33mcommit a7cdba9582fa6adfd81ec6a7e87d1c3229084853[m
+Author: Pan Gang <pangang@jd.com>
+Date:   Mon Dec 24 20:46:30 2018 +0800
+
+    change limit from 1000 to 10000
+
+[33mcommit 40900ccf2830893cf371674664fc7d900e9b5147[m
+Merge: e9d48eeef c41daa919
+Author: Yan Guoqi <yanguoqi@jd.com>
+Date:   Thu Dec 20 20:26:52 2018 +0800
+
+    Merge branch 'patch-1' into 'v0.16.3-jbri'
+    
+    delete port from http header
+    
+    See merge request jbri/litecoin!3
+
+[33mcommit c41daa9190e9d950c3d38c1e7525a4cbaedb80fc[m
+Author: Pan Gang <pangang@jd.com>
+Date:   Thu Dec 20 18:31:28 2018 +0800
+
+    delete port from http header
+
+[33mcommit e9d48eeef7a8bb2dac1114863fdbbb52f9aa7aab[m
+Merge: 69fce7441 da39006f2
+Author: Yan Guoqi <yanguoqi@jd.com>
+Date:   Tue Dec 18 17:40:28 2018 +0800
+
+    Merge branch 'ltc_kafka_feature' into 'v0.16.3-jbri'
+    
+    Ltc kafka feature
+    
+    See merge request jbri/litecoin!2
+
+[33mcommit da39006f2d69fff5b55c0a9bbe5cbcc401bf73d8[m
+Author: Yan Guoqi <yanguoqi@jd.com>
+Date:   Tue Dec 18 17:27:09 2018 +0800
+
+    Reformat code.
+
+[33mcommit 407455db6aadf1fe121babbd01604e191eb85485[m
+Author: pangang <593806837@qq.com>
+Date:   Mon Dec 17 11:13:46 2018 +0800
+
+    1.change reponse_data to response_data
+
+[33mcommit 7172fc0e10ce0cdf5cc171d9e02a4ebde69360da[m
+Author: pangang <593806837@qq.com>
+Date:   Mon Dec 17 11:06:45 2018 +0800
+
+    1.change reponse_data to response_data
+
+[33mcommit 3ea3cd17ab2aee5058cf650e09c9c683532348b4[m
+Author: pangang <593806837@qq.com>
+Date:   Mon Dec 10 15:35:23 2018 +0800
+
+    1.deal with a bug
+
+[33mcommit 22c25bb02150a384791e3ec0aec83cbfe29fc78c[m
+Author: pangang <593806837@qq.com>
+Date:   Mon Dec 10 15:26:42 2018 +0800
+
+    1.deal with height=0
+
+[33mcommit 7c68e6fc22ca4ea7d5d33e133f44c047a40d0543[m
+Author: pangang <593806837@qq.com>
+Date:   Mon Dec 10 14:30:33 2018 +0800
+
+    1.add kafka function
+
+[33mcommit 69fce744115a7d2889ff1b90e89582b83de405ad[m[33m ([m[1;33mtag: v0.16.3[m[33m)[m
+Merge: eba0e1ca3 23705f3bf
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Sep 19 13:16:47 2018 +1000
+
+    Merge pull request #536 from thrasher-/0.16
+    
+    v0.16.3 patchset
+
+[33mcommit 23705f3bfab4bde68137bf0b5b2a858e3bbb33e7[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Sep 18 19:14:49 2018 -0700
+
+    Litecoin: Update release notes for v0.16.3
+
+[33mcommit f1250033bd149626cfe42008ca145733be850dfe[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Sep 18 18:59:37 2018 -0700
+
+    Litecoin: Update man pages
+
+[33mcommit c84d27f39e5260011f3447ba57ac7d5b0dfe5807[m
+Merge: eba0e1ca3 49e34e288
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Sep 18 18:12:02 2018 -0700
+
+    Merge tag 'v0.16.3' into HEAD
+    
+    Bitcoin Core 0.16.3 final
+
+[33mcommit 49e34e288005a5b144a642e197b628396f5a0765[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Sep 18 01:55:09 2018 +0200
+
+    doc: Update manpages for 0.16.3
+    
+    Tree-SHA512: e631405dd03438ac4b5fae5ed2fc0cb061e4cb7092ab068dd99b7c3001c95d166224f50af759454dbf47a2954409ac62c1232988918dd6650213918b853aea2d
+
+[33mcommit a0f4ff6088e564560d8b2c029c493275bcca304f[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Sep 18 01:41:24 2018 +0200
+
+    doc: 0.16.3 release notes
+    
+    Tree-SHA512: 4237ac0c1cd0c0f4c3f50494cf5985a95317730194820a22e2814571107a684fdd5253625707c95ac558a1ad8ab9f36904c46647d0cb931fe67ea2407738133a
+
+[33mcommit 86e2f1d4bb3a5d6e705617dbcec9cfbcf46112cb[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Sep 18 01:26:48 2018 +0200
+
+    build: Bump version to 0.16.3
+    
+    Tree-SHA512: 56565311429f56d68508215eaa04f31f3e3f0144f367fc874da78652ce0aeb62b1d609513d9f8dcb204425c8e108103855a737eefc661f8b1f94c6219a9518a3
+
+[33mcommit 696b936aa3ab6f459d0e16f9805eaeb747a0036c[m
+Merge: 9e116a6f8 9bd08fd46
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Sep 18 01:25:52 2018 +0200
+
+    Merge #14249: [0.16] Fix crash bug with duplicate inputs within a transaction
+    
+    9bd08fd465c35f08f3aab3c713ce1d70ddc1c492 [qa] backport: Test for duplicate inputs within a transaction (Suhas Daftuar)
+    d1dee205473140aca34180e5de8b9bbe17c2207d Fix crash bug with duplicate inputs within a transaction (Suhas Daftuar)
+    
+    Pull request description:
+    
+      This is a backport of #14247 to 0.16.
+    
+    Tree-SHA512: f11b2b0f2d8089bbac7542f78a0f14fc15c693604cb1168ef5ea71852a206da7eb53b6e420376ed1380583961176ba2d283e409e19d783c7a68c3407933a89b0
+
+[33mcommit 9bd08fd465c35f08f3aab3c713ce1d70ddc1c492[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Mon Sep 17 16:15:02 2018 -0400
+
+    [qa] backport: Test for duplicate inputs within a transaction
+
+[33mcommit d1dee205473140aca34180e5de8b9bbe17c2207d[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Mon Sep 17 16:13:37 2018 -0400
+
+    Fix crash bug with duplicate inputs within a transaction
+    
+    Introduced by #9049
+
+[33mcommit eba0e1ca3fb4088998461b02ec6831858cc24144[m
+Merge: 78bcc3345 658d0dc7e
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Mon Aug 27 10:58:35 2018 +1000
+
+    Merge pull request #532 from thrasher-/0.16
+    
+    Litecoin Core 0.16.2 final changes
+
+[33mcommit 658d0dc7ee5b90dcffc5909d58e8c8f849e4e121[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Aug 26 16:29:29 2018 -0700
+
+    Litecoin: Bump date in man pages
+
+[33mcommit 1882995138af4420e56d826bcb412cefe3d9780f[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Aug 26 16:17:01 2018 -0700
+
+    Bump Litecoin release notes for 0.16 final release
+
+[33mcommit defc472744235a9ae0829c19bf44d23d7731f0dd[m
+Merge: 78bcc3345 9e116a6f8
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Aug 26 15:57:58 2018 -0700
+
+    Merge remote-tracking branch 'bitcoin/0.16' into HEAD
+
+[33mcommit 9e116a6f8720c10c2f4e295107e217fbf7a9a20d[m
+Merge: b64f02fcf 11b9dbb43
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed Aug 8 12:36:29 2018 +0200
+
+    Merge #13852: [0.16] doc: correct the help output for -prune
+    
+    11b9dbb439a15ed275cba673fdc743c612ea374f -prune option -help output aligned with code (Hennadii Stepanov)
+    
+    Pull request description:
+    
+      Backports #13844 to the 0.16 branch.
+    
+    Tree-SHA512: 84cac57ca3b1ef34892e73f131b5f3cc50d3f9e268a4123092cf6cdf519fc20616b5b084f9e9343505c15a2cf663a2c94d18c4587bcb7c261cbe32eeac8afe9b
+
+[33mcommit b64f02fcfad4768f5761da463c09089ab6ec27ed[m
+Merge: 6518bcd56 212ef1f95
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed Aug 8 10:19:28 2018 +0200
+
+    Merge #13796: [0.16] Make signrawtransaction give an error when amount is needed but missing
+    
+    212ef1f9547e27295a94eaa9d5ae552d858e2d9f [tests] Check signrawtransaction* errors on missing prevtx info (Anthony Towns)
+    1825e37075aa7885930cb48c5452ba3e8952b78a Error on missing amount in signrawtransaction* (Anthony Towns)
+    
+    Pull request description:
+    
+      Backport of #13547 to 0.16
+    
+    Tree-SHA512: 7a660023b6948632a1f949443c18fa45add75ec8c36df1ebbaccd181dd1560c1bef460f061f8dab36b6a5df295eb4967effaa2cf55ea06b41d8f7562842a39ec
+
+[33mcommit 11b9dbb439a15ed275cba673fdc743c612ea374f[m
+Author: Hennadii Stepanov <32963518+hebasto@users.noreply.github.com>
+Date:   Thu Aug 2 01:16:41 2018 +0300
+
+    -prune option -help output aligned with code
+    
+    see: .../src/init.cpp#L1063
+    
+    Github-Pull: #13844
+    Rebased-From: 312ff01
+
+[33mcommit 6518bcd56ca7362afdce3f8ea9adf95662c92f2d[m
+Merge: 856151502 1cdbea7f7
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon Jul 30 16:38:56 2018 +0200
+
+    Merge #13797: [0.16] bitcoinconsensus: invalid flags should be set to bitcoinconsensus_error type, add test cases covering bitcoinconsensus error codes
+    
+    1cdbea7f742fa128062009ea8ca22383bceacd1e bitcoinconsensus: invalid flags should be set to bitcoinconsensus_error type, add test cases covering bitcoinconsensus error codes (Thomas Kerin)
+    
+    Pull request description:
+    
+      Backport of #13655 to 0.16
+    
+    Tree-SHA512: b62e185f2aa957f09255090e59f96c039f47a5623d68b6fef8d1dd831c6d3135b039be5cfad0f823687ff2a5143d24e34bd83fefcc9ba5b68f43054cbd9d909d
+
+[33mcommit 8561515022e331d9b25f3b03705fb43cb3956f5d[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon Jul 30 16:38:07 2018 +0200
+
+    doc: Clean out release notes after 0.16.2
+    
+    Tree-SHA512: fb7208356134322f3515c682ac7349eddb1ff54094abe397c94acb7e931b42265aca6b716eba072f79ebdb4a69ea87a5e40b6c4a48571db5b7b095ead45456ef
+
+[33mcommit 1cdbea7f742fa128062009ea8ca22383bceacd1e[m
+Author: Thomas Kerin <thomas.kerin@bitmaintech.com>
+Date:   Fri Jul 13 12:47:07 2018 +0100
+
+    bitcoinconsensus: invalid flags should be set to bitcoinconsensus_error type, add test cases covering bitcoinconsensus error codes
+    
+    Github-Pull: #13655
+    Rebased-From: 417b6c1d2990ffc78c029442e027797d724a101f
+
+[33mcommit 212ef1f9547e27295a94eaa9d5ae552d858e2d9f[m
+Author: Anthony Towns <aj@erisian.com.au>
+Date:   Wed Jun 27 17:54:42 2018 +1000
+
+    [tests] Check signrawtransaction* errors on missing prevtx info
+    
+    Github-Pull: #13547
+    Rebased-From: 685d1d8115f61b15115d80523dd8273f0a816534
+
+[33mcommit 1825e37075aa7885930cb48c5452ba3e8952b78a[m
+Author: Anthony Towns <aj@erisian.com.au>
+Date:   Wed Jun 27 17:54:32 2018 +1000
+
+    Error on missing amount in signrawtransaction*
+    
+    Signatures using segregated witness commit to the amount being spent,
+    so that value must be passed into signrawtransactionwithkey and
+    signrawtransactionwithwallet. This ensures an error is issued if that
+    doesn't happen, rather than just assuming the value is 0 and producing
+    a signature that is almost certainly invalid.
+    
+    Github-Pull: #13547
+    Rebased-From: a3b065b51fb333d976108a1fe34b7f663fd67285
+
+[33mcommit 78bcc3345dc15ea1fe389f84150fbc73913cf030[m
+Merge: 47372d7a7 d949bf74d
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Jul 24 14:21:42 2018 +1000
+
+    Merge pull request #523 from thrasher-/0.16
+    
+    Preparation for 0.16.2 release candidate
+
+[33mcommit d949bf74d1baf5f927e0e34eb8f6bba7f923b70d[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Mon Jul 23 17:16:50 2018 -0700
+
+    Litecoin: Release notes for v0.16.2
+
+[33mcommit 157fe556b26decf09857be9653a4ff51d57e4ede[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Mon Jul 23 16:54:51 2018 -0700
+
+    Litecoin: Bump man pages
+
+[33mcommit ccf37a45fef6dd9002b8cef245a22d2c7dea7326[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Mon Jul 23 18:10:36 2018 -0700
+
+    Litecoin: Fix wallet_abandonconflict test
+
+[33mcommit ad3c330972884cc34d9a17a41332a1c2a8b67873[m
+Merge: 47372d7a7 2848aa808
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Mon Jul 23 16:53:43 2018 -0700
+
+    Merge remote-tracking branch 'bitcoin/0.16' into HEAD
+
+[33mcommit 2848aa808fde462c27bc36de982d7ed74e882a7b[m
+Merge: 08ca31441 0296b9c85
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Fri Jul 20 14:53:40 2018 +0200
+
+    Merge #13703: 0.16.2: [doc] Bump manpages
+    
+    0296b9c85e942686df7ef40333e07e9b1802b892 0.16.2: Bump manpages (MarcoFalke)
+    
+    Pull request description:
+    
+    Tree-SHA512: 6fffb8ca0e3f2fbbb7561bf9e8710b1ece6475cc76d56120b790b0fa6261cb7a06f65816ab49a37e1ef5b99883d3e9649ac7f8dcabcfb716de03ca85a86cd320
+
+[33mcommit 0296b9c85e942686df7ef40333e07e9b1802b892[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Wed Jul 18 13:38:06 2018 -0400
+
+    0.16.2: Bump manpages
+
+[33mcommit 08ca3144104aa61237ad6b30f8ed86628f493a2b[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed Jul 18 15:36:10 2018 +0200
+
+    doc: Fill in changelog and credits in release notes
+    
+    Tree-SHA512: cb2a7cd91447b6e4ad13055e97b542c6984309e28cd33898f3c4bbe92141c6cb65cc472821b34e63f94aa675553d8d68709c431255ccc17e0fc0c54c0c3836bc
+
+[33mcommit 7649da3588b1327ad9e9694ad52c65ee5207b0c0[m
+Merge: 20461fc27 4244dbddc
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Jul 17 12:42:01 2018 +0200
+
+    Merge #13678: build: Bump version to 0.16.2
+    
+    Tree-SHA512: f146372b303213af48ed57fc33ef1cc0aa07a205c53bb5bba291f58dfcae56673841e726a54fd57e6faedfddb011f6e8b40230635abf5701deac1b2ef4b03e59
+
+[33mcommit 4244dbddc4a92d869542a0b5c9f60b34ce905398[m
+Author: Cory Fields <cory-nospam-@coryfields.com>
+Date:   Mon Jul 16 12:53:21 2018 -0400
+
+    build: Bump version to 0.16.2
+
+[33mcommit 63daa10015e3afad7d6560ec6bea689af4f8b471[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon Jul 16 15:49:59 2018 +0200
+
+    doc: Clean out release notes for 0.16.2
+
+[33mcommit 20461fc272516253ea077c5a80e4f600ce5c3542[m
+Author: Ben Woosley <ben.woosley@gmail.com>
+Date:   Thu Jul 12 17:19:00 2018 -0400
+
+    Fix that CWallet::AbandonTransaction would only traverse one level
+    
+    Prior to this change, it would mark only the first layer of
+    child transactions abandoned, due to always following the input hashTx
+    rather than the current now tx.
+    
+    Github-Pull: #13652
+    Rebased-From: 89e70f9d7fe384ef9de4fa3828d4c80523290186
+    Tree-SHA512: 403da0cc400a807e5a30038bd505881a68208c3f9e96ad5a7755e763666982bc3c19564ac13a5757612c8b6efc331fb2ad0edbaf7e830993b84bc64624423e54
+
+[33mcommit 7f27af22b06a13396fb4fb2b913eedae71ced095[m
+Merge: dac5374cc d9c563095
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon Jul 16 14:18:31 2018 +0200
+
+    Merge #13644: 0.16: Remaining backports for 0.16.2
+    
+    d9c563095d71055ff054d3a27e11a12d3d1ec92f qa: Initialize lockstack to prevent null pointer deref (MarcoFalke)
+    21dd5127a423f38712dcdcef4002e714e8276bd2 gui: Show messages as text not html (Wladimir J. van der Laan)
+    f78e7f6589eca50650ecd2010c41333b12f964b0 [qt] send: Clear All also resets coin control options (Sjors Provoost)
+    657dfc5bca2bd476d124f51f711e889f98f1e7d6 Fix csBestBlock/cvBlockChange waiting in rpc/mining (Pieter Wuille)
+    88d1a649a2e9cfa471fc00f8c853e53383eb4695 Consensus: Fix bug when compiler do not support __builtin_clz* (532479301)
+    b72c0bd4c9cf36163fdef6ce0c60970d112d1100 [qa] Add a test for merkle proof malleation (Suhas Daftuar)
+    6b9dc8ceaed597d9c539ba6b09c171b258b66ca3 have verifytxoutproof check the number of txns in proof structure (Gregory Sanders)
+    ed82e7176d6f7c3e5f53363102dd1e7d558b1f92 wallet: Erase wtxOrderd wtx pointer on removeprunedfunds (MarcoFalke)
+    e15e3a9ddd17e1d46b3548cd475bcd6b1795c378 Remove boost dependency (boost/assign/std/vector.hpp) (practicalswift)
+    10621995edaa8237b5846f81a1d731648af4d017 Fix incorrect tests (practicalswift)
+    170b3099814c96c9af39fb2405502b0a85a33b5d Make tests pass after 2020 (Bernhard M. Wiedemann)
+    cfc6f7413bfa486aed9811fcef177cd80568f2db [rpcwallet] Clamp walletpassphrase value at 100M seconds (Suhas Daftuar)
+    bf1f1501903a2a0df4ac5fd4b2bfe086ffe88773 rpc: fix type mistmatch in listreceivedbyaddress (joemphilips)
+    2291774bd5a4cd7692db27de09728c98298db599 [trivial] Add newlines to end of log messages. (John Newbery)
+    cf6feb783764bd37647548c4013a1dde605dcc54 qt: Avoid resetting on resetguisettigs=0 (MarcoFalke)
+    cbdabef35e25d84206006b5dddbf6f8376157d5e qa: Fix wallet_listreceivedby race (MarcoFalke)
+    79c4fff9edec13ca4685abde953a320840544869 [tests] Fixed intermittent failure in p2p_sendheaders.py. (lmanners)
+    c04a4a5ae97915fce1c35dff715e373b1290a169 Remove useless mapRequest tracking that just effects Qt display. (Matt Corallo)
+    
+    Pull request description:
+    
+      Some gui/doc/rpc/qa backports
+    
+    Tree-SHA512: f1e918d2ca6016fc7c5d5adf5d537553a1769731e2dcac788edf02c7354387861ec5bcd0cbf3c833c1485d500c55a73a2799a8b39ed14477524ac46b4ff2332d
+
+[33mcommit d9c563095d71055ff054d3a27e11a12d3d1ec92f[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Mon May 21 21:35:47 2018 -0400
+
+    qa: Initialize lockstack to prevent null pointer deref
+    
+    Github-Pull: #13300
+    Rebased-From: fa9da85b7cc759d06bc24854be2bad0ea87b6006
+
+[33mcommit 21dd5127a423f38712dcdcef4002e714e8276bd2[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Mar 6 16:39:45 2018 +0100
+
+    gui: Show messages as text not html
+    
+    Currently, error messages (such as InitError) are displayed as-is, which
+    means Qt does auto detection on the format.
+    
+    This means that it's possible to inject HTML from the command line
+    though e.g. specifying a wallet name with HTML in it. This isn't
+    a direct security risk because fetching content from internet is
+    disabled (and as far as I know we never report strings received
+    from the network this way). However, it can be confusing.
+    
+    So explicitly force the format as text.
+    
+    Github-Pull: #12617
+    Rebased-From: 6fbc0986fa2d49a1cb65b60eca71c25c84842a54
+
+[33mcommit f78e7f6589eca50650ecd2010c41333b12f964b0[m
+Author: Sjors Provoost <sjors@sprovoost.nl>
+Date:   Wed Feb 14 14:23:43 2018 +0100
+
+    [qt] send: Clear All also resets coin control options
+    
+    Github-Pull: #12432
+    Rebased-From: f506c0a7f8ea6bae089177884e44e38cd2bfeb23
+
+[33mcommit 657dfc5bca2bd476d124f51f711e889f98f1e7d6[m
+Author: Pieter Wuille <pieter.wuille@gmail.com>
+Date:   Tue Mar 20 21:04:27 2018 -0700
+
+    Fix csBestBlock/cvBlockChange waiting in rpc/mining
+    
+    Github-Pull: #12743
+    Rebased-From: 45dd13503918e75a45ce33eb5c934b998790fdc8
+
+[33mcommit 88d1a649a2e9cfa471fc00f8c853e53383eb4695[m
+Author: 532479301 <532479301@qq.com>
+Date:   Thu Mar 1 17:20:27 2018 +0800
+
+    Consensus: Fix bug when compiler do not support __builtin_clz*
+    
+    #ifdef is not correct since defination is defined to 0 or 1. Should change to #if
+    
+    Github-Pull: #12573
+    Rebased-From: 18307849b405f9e2067eaa8091b105838f413707
+
+[33mcommit b72c0bd4c9cf36163fdef6ce0c60970d112d1100[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Wed Jun 20 16:03:25 2018 -0400
+
+    [qa] Add a test for merkle proof malleation
+    
+    Github-Pull: #13452
+    Rebased-From: d280617bf569f84457eaea546541dc74c67cd1e4
+
+[33mcommit 6b9dc8ceaed597d9c539ba6b09c171b258b66ca3[m
+Author: Gregory Sanders <gsanders87@gmail.com>
+Date:   Tue Jun 12 17:10:21 2018 -0400
+
+    have verifytxoutproof check the number of txns in proof structure
+    
+    Github-Pull: #13452
+    Rebased-From: ed82f1700006830b6fe34572b66245c1487ccd29
+
+[33mcommit ed82e7176d6f7c3e5f53363102dd1e7d558b1f92[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Mon Jun 11 14:09:16 2018 -0400
+
+    wallet: Erase wtxOrderd wtx pointer on removeprunedfunds
+    
+    Github-Pull: #13437
+    Rebased-From: faa18ca046e9043b2cf68cb1bd17cc8c60fe26d9
+
+[33mcommit e15e3a9ddd17e1d46b3548cd475bcd6b1795c378[m
+Author: practicalswift <practicalswift@users.noreply.github.com>
+Date:   Wed Jun 27 17:45:18 2018 +0200
+
+    Remove boost dependency (boost/assign/std/vector.hpp)
+    
+    Github-Pull: #13545
+    Rebased-From: 962d8eed5bdbe62b9926f01cb85bdce9d435d3d6
+
+[33mcommit 10621995edaa8237b5846f81a1d731648af4d017[m
+Author: practicalswift <practicalswift@users.noreply.github.com>
+Date:   Wed Jun 27 16:59:23 2018 +0200
+
+    Fix incorrect tests
+    
+    Github-Pull: #13545
+    Rebased-From: c6fd0df4efcd9f75c43ff527fd57fe43bc47a474
+
+[33mcommit 170b3099814c96c9af39fb2405502b0a85a33b5d[m
+Author: Bernhard M. Wiedemann <bwiedemann@suse.de>
+Date:   Mon Apr 23 23:57:21 2018 +0200
+
+    Make tests pass after 2020
+    
+    also test that 64 bit integers are properly handled
+    
+    Github-Pull: #13061
+    Rebased-From: 3ee4be10500710fc8e9b03acf974fd81224c05c4
+
+[33mcommit cfc6f7413bfa486aed9811fcef177cd80568f2db[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Fri Apr 6 11:54:52 2018 -0400
+
+    [rpcwallet] Clamp walletpassphrase value at 100M seconds
+    
+    Larger values seem to trigger a bug on macos+libevent (resulting in the
+    rpc server stopping).
+    
+    Github-Pull: #12905
+    Rebased-From: 662d19ff7217d0e6c7975ca311933f640955a53e
+
+[33mcommit bf1f1501903a2a0df4ac5fd4b2bfe086ffe88773[m
+Author: joemphilips <joemphilips@gmail.com>
+Date:   Fri Mar 30 17:59:37 2018 +0900
+
+    rpc: fix type mistmatch in listreceivedbyaddress
+    
+    Github-Pull: #12837
+    Rebased-From: 05c03d1249c6fe30dbfcea9f3f3a3bd02106035b
+
+[33mcommit 2291774bd5a4cd7692db27de09728c98298db599[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Wed Apr 4 15:52:18 2018 -0400
+
+    [trivial] Add newlines to end of log messages.
+    
+    Log messages should terminate with a '\n', or the following log will be
+    written to the same line without a timestamp. Fix a couple of cases
+    where the message is not terminated with a \n.
+    
+    Github-Pull: #12887
+    Rebased-From: 5b10ab0116245ee73b493e2248ad2f8bb8e34f21
+
+[33mcommit cf6feb783764bd37647548c4013a1dde605dcc54[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Mon Mar 26 15:13:33 2018 -0400
+
+    qt: Avoid resetting on resetguisettigs=0
+    
+    Github-Pull: #12793
+    Rebased-From: 342fb8034640d4393771899dc132c9e3b170b369
+
+[33mcommit cbdabef35e25d84206006b5dddbf6f8376157d5e[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Tue May 22 17:07:19 2018 -0400
+
+    qa: Fix wallet_listreceivedby race
+    
+    Github-Pull: #13304
+    Rebased-From: fa865efa4a21ae08be8b4c390b7661182e0b415b
+
+[33mcommit 79c4fff9edec13ca4685abde953a320840544869[m
+Author: lmanners <lowellmanners@gmail.com>
+Date:   Tue May 8 22:38:44 2018 +0200
+
+    [tests] Fixed intermittent failure in p2p_sendheaders.py.
+    
+    Added handling for the case where headers are announced over more than one message.
+    refs #12453
+    
+    Github-Pull: #13192
+    Rebased-From: 12d1b77f7eb2ca274890d9fb45d6c19a40ba8f74
+
+[33mcommit c04a4a5ae97915fce1c35dff715e373b1290a169[m
+Author: Matt Corallo <git@bluematt.me>
+Date:   Mon Jul 9 20:06:39 2018 -0400
+
+    Remove useless mapRequest tracking that just effects Qt display.
+    
+    I thought we had removed this a long time ago, TBH, its really
+    confusing feedback to users that we display whether a tx was
+    broadcast to immediate neighbor nodes, given that has little
+    indication of whether the tx propagated very far.
+    
+    Github-Pull: #13622
+    Rebased-From: beef7ec4be725beea870a2da510d2817487601ec
+
+[33mcommit dac5374ccee6b21605127a6f8000666aab5caecc[m
+Merge: dac5d68fc 9fd3e0001
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon Jul 9 21:07:10 2018 +0200
+
+    Merge #13455: [0.16.2] Backports
+    
+    9fd3e0001fc20eecbfa823e12f66da4054a072a7 depends: Update Qt download url (fanquake)
+    f7401c86b9c9c58cfe57c2a49d3b4e00f80ded4a Fix parameter count check for importpubkey. (Kristaps Kaupe)
+    cbd2f70b75016bbadeb212c823b5c1ece95d5241 expose CBlockIndex::nTx in getblock(header) (Gregory Sanders)
+    ce8aa5491f35c2cca03ba1877cd4c926b506a961 Add Windows shutdown handler (Chun Kuan Lee)
+    18b0c69e2fc9f9d5cd56659abab467c2c6826be2 Bugfix: Include <memory> for std::unique_ptr (Luke Dashjr)
+    
+    Pull request description:
+    
+      Backports:
+      * #12859 Bugfix: Include <memory> for std::unique_ptr
+      * #13131 Add Windows shutdown handler
+      * #13451 rpc: expose CBlockIndex::nTx in getblock(header)
+      * #13507 RPC: Fix parameter count check for importpubkey
+      * #13544 depends: Update Qt download url
+    
+      to the 0.16 branch.
+    
+    Tree-SHA512: eeaec52d001d5c81e67dda3a2d3fee7a9445e569366e597b18e81d802c1b7f89e545afd53d094740c37c1714050304979398b9860144454d3a5cb5abc9e9eaca
+
+[33mcommit 9fd3e0001fc20eecbfa823e12f66da4054a072a7[m
+Author: fanquake <fanquake@gmail.com>
+Date:   Wed Jun 27 23:26:25 2018 +0800
+
+    depends: Update Qt download url
+    
+    GitHub-Pull: #13544
+    Rebased-From: 2fca656
+
+[33mcommit 47372d7a7ed1049d7a913722deb4626848c9daf1[m
+Merge: 3567effe2 de2615426
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Jun 27 17:27:01 2018 +1000
+
+    Merge pull request #508 from thrasher-/0.16
+    
+    Preparation for v0.16.1 release candidate
+
+[33mcommit f7401c86b9c9c58cfe57c2a49d3b4e00f80ded4a[m
+Author: Kristaps Kaupe <kristaps@blogiem.lv>
+Date:   Wed Jun 20 00:34:38 2018 +0300
+
+    Fix parameter count check for importpubkey.
+    
+    Github-Pull: #13507
+    Rebased-From: 3f72d04
+
+[33mcommit de261542653f920aae6d49e391bb0a68fd113a08[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 19:14:25 2018 -0700
+
+    Litecoin: Add v0.16.1 release notes
+
+[33mcommit dee12239d2ffcadb2cdd1b35a588a28bba0e4791[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 18:25:25 2018 -0700
+
+    Litecoin: Branding
+
+[33mcommit 67f7fbf9f504dd882d361ab060c53024132fc161[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 16:57:50 2018 -0700
+
+    Litecoin: Update default minimum chain work and default assume valid values
+
+[33mcommit 8ca2ccc96c78156e58183b4e03fd3da41dc34e1b[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 16:50:56 2018 -0700
+
+    Litecoin: Bump blockchain size value
+
+[33mcommit 7b0905f64097399602308a106a21ebfdabfb4a92[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 16:49:22 2018 -0700
+
+    Litecoin: Update Qt translations
+
+[33mcommit 70312a66351766a0718515c9b1dcdb71812ed607[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 16:46:30 2018 -0700
+
+    Litecoin: Update man files
+
+[33mcommit 8203195e2e796db32989eb252346d2c95d78462a[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 16:44:28 2018 -0700
+
+    Litecoin: GetPoWHash for validation block tests
+
+[33mcommit 2bce040c7843c44872bb855e69dd696430b48d97[m
+Author: jaykishan mutkawoa <jmutkawoa@hackers.mu>
+Date:   Mon Jun 18 02:25:43 2018 +0400
+
+    Fix CVE-2018-12356 by hardening the regex. (#503)
+
+[33mcommit 4c20019d30bbd7793424bc70882aaab8f8c1abdb[m
+Merge: 514e0681d dac5d68fc
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jun 17 18:55:26 2018 -0700
+
+    Merge remote-tracking branch 'bitcoin/0.16'
+
+[33mcommit cbd2f70b75016bbadeb212c823b5c1ece95d5241[m
+Author: Gregory Sanders <gsanders87@gmail.com>
+Date:   Tue Jun 12 16:39:29 2018 -0400
+
+    expose CBlockIndex::nTx in getblock(header)
+    
+    GitHub-Pull: #13451
+    Rebased-From: 86edf4a
+
+[33mcommit dac5d68fc6cf136e0d7b21b9ed4fa053d54e6059[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed Jun 13 14:29:56 2018 +0200
+
+    doc: Last-minute edits to 0.16.1 release notes
+    
+    Tree-SHA512: 951cdf2b27ddb702906303d1bc07bac204323baf0ac4513ccb5da44cb2cb29ce74a62c75fe6531cfddc9059130890fe11929ea4ac545a17190d57e5163c7cc06
+
+[33mcommit ce8aa5491f35c2cca03ba1877cd4c926b506a961[m
+Author: Chun Kuan Lee <ken2812221@gmail.com>
+Date:   Mon Apr 30 23:31:11 2018 +0800
+
+    Add Windows shutdown handler
+    
+    GitHub-Pull: #13131
+    Rebased-From: ddebde7
+
+[33mcommit 18b0c69e2fc9f9d5cd56659abab467c2c6826be2[m
+Author: Luke Dashjr <luke-jr+git@utopios.org>
+Date:   Mon Apr 2 18:31:40 2018 +0000
+
+    Bugfix: Include <memory> for std::unique_ptr
+    
+    GitHub-Pull: #12859
+    Rebased-From: a5bca13
+
+[33mcommit 4ea3e8ef070417ccc22007407d78fa0a41949bee[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Fri Jun 1 11:36:10 2018 +0200
+
+    qt: Periodic translations update
+    
+    Tree-SHA512: eb84c69adcf1547f6bfcfd2d54ef7201c7147c26aa95e07a67be9ac12eeb31b173c847bd5f27b973c911c287ef3654413bdb201d70e4b9414f784e2d58a0071a
+
+[33mcommit afc115d7535986f6c2bec3c3ad4ed0fe90d31f01[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed May 30 14:00:46 2018 +0200
+
+    doc: Add commits and authors to release notes for rc1
+    
+    Tree-SHA512: e6779d21616eec04168b5726d1fe8a1b8356c3de7f5bad30a94848a0db7c0f84fcc0d6f965424b4f7a2a9a8daba1a11fc53b148b918230b39d8095fa215be6f4
+
+[33mcommit 224a41d1f6ed7486ff5c4cb537c964698a740eed[m
+Merge: 81bc9829c 6de754306
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon May 28 15:02:36 2018 +0200
+
+    Merge #13336: [0.16.1] doc: Bump to Ubuntu Bionic 18.04 in build-windows.md
+    
+    6de754306e81dd37a887c4940f2bce0e99c3fc62 doc: Bump to Ubuntu Bionic 18.04 in build-windows.md (Chun Kuan Lee)
+    
+    Pull request description:
+    
+      Windows starts to provide Ubuntu 18.04 WSL, it can be downloaded from Microsoft Store.
+    
+      GitHub-Pull: #13246
+      Rebased-From: 9d4f942
+    
+    Tree-SHA512: f72b97637fcedee4b21316ecafd43c5889111fedbc6522f805df40241558fdfe7579ad4b6bce1940890b3bc352fd64d428f13fb40e97f913031e7eccdc0f7ddf
+
+[33mcommit 6de754306e81dd37a887c4940f2bce0e99c3fc62[m
+Author: Chun Kuan Lee <ken2812221@gmail.com>
+Date:   Wed May 16 22:29:50 2018 +0800
+
+    doc: Bump to Ubuntu Bionic 18.04 in build-windows.md
+    
+    Windows starts to provide Ubuntu 18.04 WSL, it can be downloaded from Microsoft Store.
+    
+    GitHub-Pull: #13246
+    Rebased-From: 9d4f942
+
+[33mcommit 81bc9829cdaf206b8442b5c97025aa805fc01d18[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon May 28 12:33:58 2018 +0200
+
+    build: Bump version to 0.16.1
+    
+    Tree-SHA512: 3408031113febc1d9ac3734a355c832813046eb1f2eaa7f29ff0c7b330026ac1fc664ae9ea773370c9abeca0a50f0ec1bb50a6f5940f86df335f822c1f0b1a73
+
+[33mcommit b42c355085beed3fa7fb7dd5322f765394672a2f[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon May 28 10:53:40 2018 +0000
+
+    qt: Pre-rc1 transifex pull
+    
+    Tree-SHA512: 91372301f876e3813ebac68d466941ba488b8c74f7525ea9686945d50c2b2e29290c84722c96eebed40a246eca343981feaf2f51b836ba2b3923e4ddc15aef30
+
+[33mcommit 07fb2a6e166f214ebefeaf2029680961a63e12f4[m
+Merge: bfd1e9233 dcb13a0ab
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon May 28 11:58:54 2018 +0200
+
+    Merge #13319: [0.16.1] gui: Backport bech32 checkbox
+    
+    dcb13a0ab687b23465a046e35ca75a432427b833 qt: Update translations pre-rc1 (MarcoFalke)
+    0eda98d01b6fef1309cdaf8365b752fed39d39a5 GUI: Allow generating Bech32 addresses with a legacy-address default (Luke Dashjr)
+    ea487f9f905b5971e686458b4687157c001b1119 GUI: Rephrase Bech32 checkbox text/tooltip (Luke Dashjr)
+    
+    Pull request description:
+    
+    Tree-SHA512: 1298fa92579bcbdc80537a3a5b2f8aae460c7ebcb46fbade4305d45c883e1717587e24711792b5f65fd25b7a5999d7b9c82e63f5b4d18240f9ec4a0041efdb9a
+
+[33mcommit bfd1e923335edf757b0909d1c46409fa491113cd[m
+Merge: 50b2c9e0d 08334b73b
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Mon May 28 09:46:27 2018 +0200
+
+    Merge #13317: [0.16.1] Remaining backports
+    
+    08334b73be031485a41e2c0647c2df1aa13c6316 qa: Pad scriptPubKeys to get minimum sized txs (MarcoFalke)
+    0a000b9b73a7d7bb4086aeefc86841d0fc33e652 Policy to reject extremely small transactions (Johnson Lau)
+    1fffc2b346b2d2e129db5c9f5cad00e820c85c45 Add transaction tests for constant scriptCode (Johnson Lau)
+    d353dd121be0bf2a525e4bbea2b4ada2954d2b15 Add constant scriptCode policy in non-segwit scripts (Johnson Lau)
+    d6c3a08c482225b3742c9145a9cbfe60567f0c4f Add unit tests for signals generated by ProcessNewBlock() (Jesse Cohen)
+    bb79aaf93af93d5f9f5097cff4fbb2791af86875 Fix concurrency-related bugs in ActivateBestChain (Jesse Cohen)
+    0948153ea62ff4921daef326da0fddb8425cd866 Do not unlock cs_main in ABC unless we've actually made progress. (Matt Corallo)
+    c71e535aec5aaef04764238a94e456f2405adbb5 Bugfix: ensure consistency of m_failed_blocks after reconsiderblock (Suhas Daftuar)
+    
+    Pull request description:
+    
+    Tree-SHA512: 7466b8fcc2a1d598102028019d82c581fe985a11679d002c430287851142598c9172249aa9de511a26bd4c92dc4891b5ab597c24af4f591f2158cc2a58ff7beb
+
+[33mcommit dcb13a0ab687b23465a046e35ca75a432427b833[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Thu May 24 16:46:20 2018 -0400
+
+    qt: Update translations pre-rc1
+
+[33mcommit 0eda98d01b6fef1309cdaf8365b752fed39d39a5[m
+Author: Luke Dashjr <luke-jr+git@utopios.org>
+Date:   Wed Jan 17 07:25:17 2018 +0000
+
+    GUI: Allow generating Bech32 addresses with a legacy-address default
+    
+    Github-Pull: #13251
+    Rebased-From: 82dda6bed971c5638962442b4927845fe5eb6600
+
+[33mcommit ea487f9f905b5971e686458b4687157c001b1119[m
+Author: Luke Dashjr <luke-jr+git@utopios.org>
+Date:   Wed Jan 17 07:15:10 2018 +0000
+
+    GUI: Rephrase Bech32 checkbox text/tooltip
+    
+    - "Bech32" isn't very user-friendly
+    - You don't spend from addresses
+    
+    Github-Pull: #13251
+    Rebased-From: 7ab1c6f6a736fc7762b8dd513d8634754319d227
+
+[33mcommit 08334b73be031485a41e2c0647c2df1aa13c6316[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Thu May 3 16:50:25 2018 -0400
+
+    qa: Pad scriptPubKeys to get minimum sized txs
+    
+    Github-Pull: #11423
+    Rebased-From: 364bae5f7a6b16eef63990154e48f19e7e693039
+
+[33mcommit 0a000b9b73a7d7bb4086aeefc86841d0fc33e652[m
+Author: Johnson Lau <jl2012@xbt.hk>
+Date:   Fri Apr 27 03:31:36 2018 +0800
+
+    Policy to reject extremely small transactions
+    
+    A transaction with 1 segwit input and 1 P2WPHK output has non-witness size of 82 bytes. Anything smaller than this have unnecessary malloc overhead and are not relayed/mined.
+    
+    Github-Pull: #11423
+    Rebased-From: 7485488e907e236133a016ba7064c89bf9ab6da3
+
+[33mcommit 1fffc2b346b2d2e129db5c9f5cad00e820c85c45[m
+Author: Johnson Lau <jl2012@xbt.hk>
+Date:   Sat Oct 21 04:24:14 2017 +0800
+
+    Add transaction tests for constant scriptCode
+    
+    Tests showing that CONST_SCRIPTCODE is applied only to non-segwit transactions
+    
+    Github-Pull: #11423
+    Rebased-From: 0f8719bb035187076eeac025e2c786feb0f452d7
+
+[33mcommit d353dd121be0bf2a525e4bbea2b4ada2954d2b15[m
+Author: Johnson Lau <jl2012@xbt.hk>
+Date:   Fri Apr 27 03:56:29 2018 +0800
+
+    Add constant scriptCode policy in non-segwit scripts
+    
+    This disables OP_CODESEPARATOR in non-segwit scripts (even in an unexecuted branch), and makes a positive FindAndDelete result invalid. This ensures that the scriptCode serialized in SignatureHash() is always the same as the script passing to the EvalScript.
+    
+    Github-Pull: #11423
+    Rebased-From: 9dabfe49c066301ef75bcfcb089fd308366127c4
+
+[33mcommit d6c3a08c482225b3742c9145a9cbfe60567f0c4f[m
+Author: Jesse Cohen <jc@jc.lol>
+Date:   Wed Apr 18 08:01:48 2018 -0400
+
+    Add unit tests for signals generated by ProcessNewBlock()
+    
+    After a recent bug discovered in callback ordering in MainSignals,
+    this test checks invariants in ordering of
+    BlockConnected / BlockDisconnected / UpdatedChainTip signals
+    
+    Github-Pull: #13023
+    Rebased-From: dd435ad40267f5c50ff17533c696f9302829a6a6
+
+[33mcommit bb79aaf93af93d5f9f5097cff4fbb2791af86875[m
+Author: Jesse Cohen <jc@jc.lol>
+Date:   Thu May 10 15:57:16 2018 -0400
+
+    Fix concurrency-related bugs in ActivateBestChain
+    
+    If multiple threads are invoking ActivateBestChain, it was possible to have
+    them working towards different tips, and we could arrive at a less work tip
+    than we should.  Fix this by introducing a ChainState lock which must
+    be held for the entire duration of ActivateBestChain to enforce
+    exclusion in ABC.
+    
+    Github-Pull: #13023
+    Rebased-From: a3ae8e68739023e5dba9e5cb190e707ed4603316
+
+[33mcommit 0948153ea62ff4921daef326da0fddb8425cd866[m
+Author: Matt Corallo <git@bluematt.me>
+Date:   Mon Oct 9 11:19:10 2017 -0400
+
+    Do not unlock cs_main in ABC unless we've actually made progress.
+    
+    Technically, some internal datastructures may be in an inconsistent
+    state if we do this, though there are no known bugs there. Still,
+    for future safety, its much better to only unlock cs_main if we've
+    made progress (not just tried a reorg which may make progress).
+    
+    Github-Pull: #13023
+    Rebased-From: ecc3c4a019e6db30e208b8554b1a3658dcb9a80a
+
+[33mcommit c71e535aec5aaef04764238a94e456f2405adbb5[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Wed May 9 09:03:35 2018 -0400
+
+    Bugfix: ensure consistency of m_failed_blocks after reconsiderblock
+    
+    Github-Pull: #13199
+    Rebased-From: 11fa6bb66e8c1562305d034903a0dc6aee6eea20
+
+[33mcommit 50b2c9e0dfbe56766838e5b493e661b94b6a5cc7[m
+Merge: 5d8de7625 acdf43382
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu May 24 10:24:17 2018 +0200
+
+    Merge #13253: [0.16] Further Backports
+    
+    acdf4338221e35d5ec7b299bb18ccd953e28c985 Hold cs_main while calling UpdatedBlockTip() and ui.NotifyBlockTip (Jesse Cohen)
+    5ff571e90c9fa71e189863e9cb21d15d5991f7da [wallet] [tests] Test disallowed multiwallet params (John Newbery)
+    4c14e7b67cd411b501e4a77385389da0afc9dd16 [wallet] Fix zapwallettxes/multiwallet interaction. (John Newbery)
+    4087dd08e7df5beedc335f4518b64eeab6a382c1 RPC Docs: gettxout*: clarify bestblock and unspent counts (David A. Harding)
+    b8aacd660eb9460b6a86d4402d886f0bb32af2b4 [qa] Handle disconnect_node race (Suhas Daftuar)
+    
+    Pull request description:
+    
+      Backports:
+      - #13201 [qa] Handle disconnect_node race
+      - #13184 RPC Docs: gettxout*: clarify bestblock and unspent counts
+      - #13030 [bugfix] [wallet] Fix zapwallettxes/multiwallet interaction.
+      - #12988 Hold cs_main while calling UpdatedBlockTip() signal
+    
+      to the 0.16 branch.
+    
+    Tree-SHA512: 8f65002bbafaf9c436f89051b2d79bf6a668fbd07bd317c64af238ed4a7c8efe776864b739a7f2869f1e3daa16f2f4366a85f41b188f9c454879d2c7b309be50
+
+[33mcommit 514e0681d6ca6bc17a8726dc8b28a3f1eab623f1[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed May 23 12:04:24 2018 +1000
+
+    Litecoin: Amend release notes (#484)
+
+[33mcommit 5c8e26d493b1c672303847ec0f9c7956d8788d80[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Fri May 18 22:45:23 2018 +1000
+
+    Litecoin: Basic changes for v0.16 release (#482)
+    
+    * Litecon: Modify thread names
+    
+    Since this string is displayed externally within lists of processes and should be consistent with branding, and not cause confusion for admins, when running "top", "ps aux", "pgrep" or similar commands.
+    
+    * Litecoin: Remove invalid doxygen link
+    
+    * Litecoin: Add additional optional build steps for osx builds
+    
+    Fixes: https://github.com/litecoin-project/litecoin/issues/463
+    
+    * Litecoin: Show scrypt sse2 status in configure and fix scrypt syntax issue
+
+[33mcommit 5d8de762579424d32c437bc3a7695d25e482c200[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu May 17 22:07:32 2018 +0200
+
+    wallet: Exit SyncMetaData if there are no transactions to sync
+    
+    Instead of crash with an assertion error, simply exit the function
+    `SyncMetaData` if there is no metadata to sync.
+    
+    Fixes #13110.
+    
+    Github-Pull: #13265
+    Rebased-From: b0d2ca9fb66d793e3c0f2e6ede811f1b16c33a9f
+    Tree-SHA512: 67e446e9ced901e37003a9661b6abea268e2ea648ac3b076d91c8d996de96bed389839a09d579a6562d930bcf501a091eb67454f474aae1174108a8650502072
+
+[33mcommit acdf4338221e35d5ec7b299bb18ccd953e28c985[m
+Author: Jesse Cohen <jc@jc.lol>
+Date:   Sun Apr 15 11:22:28 2018 -0400
+
+    Hold cs_main while calling UpdatedBlockTip() and ui.NotifyBlockTip
+    
+    Ensures that callbacks are invoked in the order in which the chain is updated
+    Resolves #12978
+    
+    GitHub-Pull: #12988
+    Rebased-From: d86edd3
+
+[33mcommit 5ff571e90c9fa71e189863e9cb21d15d5991f7da[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Thu Apr 19 11:13:47 2018 -0400
+
+    [wallet] [tests] Test disallowed multiwallet params
+    
+    Add a test to check that bitcoind fails to start when specifying
+    -zapwallettxes, -salvagewallet and -upgradewallet when running in
+    multiwallet mode.
+    
+    GitHub-Pull: #13030
+    Rebased-From: 1f83839
+
+[33mcommit 4c14e7b67cd411b501e4a77385389da0afc9dd16[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Thu Apr 19 11:07:54 2018 -0400
+
+    [wallet] Fix zapwallettxes/multiwallet interaction.
+    
+    -zapwallettxes should be disallowed when starting bitcoin in multiwallet
+    mode.
+    
+    GitHub-Pull: #13030
+    Rebased-From: 3476e3c
+
+[33mcommit 4087dd08e7df5beedc335f4518b64eeab6a382c1[m
+Author: David A. Harding <dave@dtrt.org>
+Date:   Mon May 7 09:59:17 2018 -0400
+
+    RPC Docs: gettxout*: clarify bestblock and unspent counts
+    
+    GitHub-Pull: #13184
+    Rebased-From: f30e9be
+
+[33mcommit b8aacd660eb9460b6a86d4402d886f0bb32af2b4[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Wed May 9 13:14:21 2018 -0400
+
+    [qa] Handle disconnect_node race
+    
+    Several tests call disconnect_nodes() on each node-pair in rapid
+    succession, resulting in a race condition if a node disconnects a peer
+    in-between the calculation of the nodeid's to disconnect and the
+    invocation of the disconnectnode rpc call.  Handle this.
+    
+    GitHub-Pull: #13201
+    Rebased-From: 09c6699
+
+[33mcommit feba12fe85e89a1cdd6a022872d73fd6e7b307a9[m
+Merge: 9ea62a3dc 8fca086d6
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed May 16 13:40:58 2018 +0200
+
+    Merge #12967: [0.16] Backports
+    
+    8fca086 List support for BIP173 in bips.md (Pieter Wuille)
+    9645aa6 Remove blockmaxsize option from init.cpp (fanquake)
+    7847b92 Default to defining endian-conversion DECLs in compat w/o config (Matt Corallo)
+    1720eb3 qt:Show the entire Window when double clicking on taskbar (Chun Kuan Lee)
+    e055bc0 depends: Fix Qt build with XCode 9.3 (fanquake)
+    0684cf9 Avoid launching as admin when NSIS installer ends. (JeremyRand)
+    e802c22 [config] Remove blockmaxsize option (John Newbery)
+    f118a7a Fix illegal default `addProxy` and `addrSeparateProxyTor` settings. (251)
+    f60e84d Limit the number of IPs we use from each DNS seeder (e0)
+    
+    Pull request description:
+    
+      Backports:
+      - #12626 Limit the number of IPs addrman learns from each DNS seeder
+      - #12650 gui: Fix issue: "default port not shown correctly in settings dialog"
+      - #12756 [config] Remove blockmaxsize option
+      - #12985 Windows: Avoid launching as admin when NSIS installer ends.
+      - #12946 depends: Fix Qt build with XCode 9.3
+      - #12998 Default to defining endian-conversion DECLs in compat w/o config
+      - #12999 qt: Show the Window when double clicking the taskbar icon
+      - #13064 List support for BIP173 in bips.md
+    
+      to the 0.16 branch.
+    
+    Tree-SHA512: 3e6b47c54b2cd2bdd81fbc6176cb31e46423f6e05988984d3a09b3535e3cee101ffb071cf753a4beff3c9f0521eb5de4b7c0424a3e97da801d56b4015847ac0f
+
+[33mcommit 8fca086d69bdcf748b1a7c9827ac2d71752d0b88[m
+Author: Pieter Wuille <pieter.wuille@gmail.com>
+Date:   Mon Apr 23 16:30:56 2018 -0700
+
+    List support for BIP173 in bips.md
+
+[33mcommit 9645aa626230449539423815db6e59ac3cfb57e6[m
+Author: fanquake <fanquake@gmail.com>
+Date:   Tue May 1 20:57:58 2018 +0800
+
+    Remove blockmaxsize option from init.cpp
+
+[33mcommit 7847b926057b46a5c01e1033f64f6f61dbf3d88f[m
+Author: Matt Corallo <git@bluematt.me>
+Date:   Mon Apr 16 11:43:57 2018 -0400
+
+    Default to defining endian-conversion DECLs in compat w/o config
+    
+    While this isn't a supported build configuration, some build
+    systems need to build without going through our autotools steps,
+    so defaulting to something sane may make it easier to build.
+    
+    Specifically, this fixes the inability to build
+    rust-bitcoinconsensus on some non-x86 platforms. It needs to build
+    without our autotools/configure steps to ensure correct compile
+    args are passed from the rust build system to gcc. Converting the
+    args from the rust build system to gcc would be a lot of
+    unmaintainable work.
+    
+    GitHub-Pull: #12998
+    Rebased-From: 150b2f0
+
+[33mcommit 1720eb3018e57cc75163c2d2c3f235325a2cc995[m
+Author: Chun Kuan Lee <ken2812221@gmail.com>
+Date:   Tue Apr 17 00:19:13 2018 +0800
+
+    qt:Show the entire Window when double clicking on taskbar
+    
+    GitHub-Pull: #12999
+    Rebased-From: 67bf2aa
+
+[33mcommit e055bc0fdfb2abfc224e9d75db92ae738687502b[m
+Author: fanquake <fanquake@gmail.com>
+Date:   Wed Apr 11 22:55:18 2018 +0800
+
+    depends: Fix Qt build with XCode 9.3
+    
+    GitHub-Pull: #12946
+    Rebased-From: 5b4fc3e
+
+[33mcommit 0684cf9b5845e40ba1e1c22bf03cd4786aff398c[m
+Author: JeremyRand <biolizard89@gmail.com>
+Date:   Sat Apr 14 07:51:49 2018 +0000
+
+    Avoid launching as admin when NSIS installer ends.
+    
+    The Bitcoin Core NSIS script runs with elevated privileges.  Unfortunately, this means that it launches Bitcoin Core itself with elevated privileges when the user chooses to launch Bitcoin Core at the end of the installation procedure.  This commit works around the issue by having explorer.exe launch Bitcoin Core.  Seems to be a similar approach to what http://nsis.sourceforge.net/ShellExecAsUser_plug-in does, but without a plugin.
+    
+    h/t to "UK" at https://mdb-blog.blogspot.se/2013/01/nsis-lunch-program-as-user-from-uac.html?showComment=1410158039989#c2463780017054126736 for the sample code.
+    
+    Fixes #7990.
+    
+    GitHub-Pull: #12985
+    Rebased-From: 7d8a8cc
+
+[33mcommit e802c2294718f1e1128f2736842595c3b84a2882[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Thu Mar 22 10:28:52 2018 -0400
+
+    [config] Remove blockmaxsize option
+    
+    The blockmaxsize option was marked as deprecated in V0.15.1, and code
+    was added to convert provided blockmaxsize into blockmaxweight. However,
+    this code was incorrectly implemented, and blockmaxsize was silently
+    ignored.
+    
+    No users have complained about blockmaxsize being ignored, so just
+    remove it in V0.17.
+    
+    GitHub-Pull: #12756
+    Rebased-From: 4757c04
+
+[33mcommit f118a7a35b8c880740d5ebf6230498a5951bd889[m
+Author: 251 <13120787+251Labs@users.noreply.github.com>
+Date:   Thu Mar 8 20:58:57 2018 +0100
+
+    Fix illegal default `addProxy` and `addrSeparateProxyTor` settings.
+    
+    GitHub-Pull: #12650
+    Rebased-From: 40c5886
+
+[33mcommit f60e84dba4723bc658ecc70f8b17db2619eb7e20[m
+Author: e0 <ethan.r.heilman@gmail.com>
+Date:   Tue Mar 6 18:26:29 2018 -0500
+
+    Limit the number of IPs we use from each DNS seeder
+    
+    A risk exists where a malicious DNS seeder eclipses a node by returning an enormous number of IP addresses. In this commit we mitigate this risk by limiting the number of IP addresses addrman learns to 256 per DNS seeder.
+    
+    GitHub-Pull: #12626
+    Rebased-From: 46e7f80
+
+[33mcommit 9ea62a3dc4bd50a139e6d3c72e4f94d909ef10f3[m
+Merge: 845838c44 41c29f6d1
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Tue Apr 24 10:02:39 2018 -0400
+
+    Merge #13049: [0.16] qa: Backports
+    
+    41c29f6d1d qa: Fix python TypeError in script.py (MarcoFalke)
+    7460945e0b [qa] Delete cookie file before starting node (Suhas Daftuar)
+    0a76ed232a qa: Cache only chain and wallet for regtest datadir (MarcoFalke)
+    6c26df06ad [qa] Ensure bitcoind processes are cleaned up when tests end (Suhas Daftuar)
+    df38b130d9 [tests] Test starting bitcoind with -h and -version (John Newbery)
+    4bdb0ce517 [tests] Fix intermittent rpc_net.py failure. (John Newbery)
+    0e98f96e42 test: Use wait_until in tests where time was used for polling (Ben Woosley)
+    1286f3e49a test: Use wait_until to ensure ping goes out (Ben Woosley)
+    cfebd400ef [test] Round target fee to 8 decimals in assert_fee_amount (Karl-Johan Alm)
+    
+    Pull request description:
+    
+      Similar to #12967 this contains all relevant bugfixes and improvements to the functional test suite.
+    
+      I didn't include fixes to make the tests run on Windows, since that is still an ongoing effort and doesn't seem worth to backport.
+    
+      As all of these are clean cherry-picks, I suggest reviewers redo the cherry-picks to get the same branch and then run the extended test suite.
+    
+    Tree-SHA512: 70e1bc28d5572f93796f1ac4d97d77e8146869c15dcc1e3b65a730fa2641283050f769cefd9791d800c758e0a92f11fd55ed0797ccec87b897c7e701d0187f34
+
+[33mcommit 41c29f6d1df0f78cfeb0b688a0a1750c8b2e5c03[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Sat Feb 17 19:27:21 2018 -0500
+
+    qa: Fix python TypeError in script.py
+    
+    Github-Pull: #12475
+    Rebased-From: fa41d68a2e3f2148c3539a11b61ff835e3141c0d
+
+[33mcommit 7460945e0b663585a7af3cde6c8675cbe21b4111[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Mon Apr 9 14:07:47 2018 -0400
+
+    [qa] Delete cookie file before starting node
+    
+    If a cookie file exists in a datadir prior to node startup, it must have
+    been leftover from a prior unclean shutdown. As bitcoind will overwrite
+    it anyway, delete it before starting up to prevent the test framework
+    from inadvertently trying to connect using stale credentials.
+    
+    Github-Pull: #12902
+    Rebased-From: 75d0e4c5444249f0cf81ed0494e2c2717170b695
+
+[33mcommit 0a76ed232a6c448a8666234a2c190db37e3498e7[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Wed Mar 7 13:49:44 2018 -0500
+
+    qa: Cache only chain and wallet for regtest datadir
+    
+    Github-Pull: #12638
+    Rebased-From: fa2310572f4cfcd3322409ce7e37dde155fc4bc9
+
+[33mcommit 6c26df06adc55ef7c27891a52a8feccec58b4aea[m
+Author: Suhas Daftuar <sdaftuar@gmail.com>
+Date:   Fri Apr 6 10:53:35 2018 -0400
+
+    [qa] Ensure bitcoind processes are cleaned up when tests end
+    
+    Github-Pull: #12904
+    Rebased-From: e36a0c08529bccc695ec71a7ec1df89367cc1628
+
+[33mcommit df38b130d957afbeda8be34a649f6e406f4c79b3[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Fri Mar 30 11:36:38 2018 -0400
+
+    [tests] Test starting bitcoind with -h and -version
+    
+    Github-Pull: #12843
+    Rebased-From: 63048ec73d790ecbcfe3186f2520dac4460f56e3
+
+[33mcommit 4bdb0ce5172b511c1426f5ae839c6b66706d8b62[m
+Author: John Newbery <john@johnnewbery.com>
+Date:   Tue Mar 27 17:18:01 2018 -0400
+
+    [tests] Fix intermittent rpc_net.py failure.
+    
+    rpc_net.py would intermittently fail on Travis, probably
+    due to assuming that two consecutive RPC calls were atomic.
+    Fix this by only testing that amounts are bounded above and
+    below rather than equal.
+    
+    Github-Pull: #12804
+    Rebased-From: 5a67c0524e5dc98d0e387f189545bc99863916d4
+
+[33mcommit 0e98f96e42357ac24322a96f0864b6bfd5e55ffe[m
+Author: Ben Woosley <ben.woosley@gmail.com>
+Date:   Mon Feb 26 14:04:41 2018 -0800
+
+    test: Use wait_until in tests where time was used for polling
+    
+    Github-Pull: #12553
+    Rebased-From: 81b0822772169cb697b5994f49398e619d61a12d
+
+[33mcommit 1286f3e49a7bdae72ae022ff4f83d0a77e832891[m
+Author: Ben Woosley <ben.woosley@gmail.com>
+Date:   Tue Feb 20 21:25:02 2018 -0800
+
+    test: Use wait_until to ensure ping goes out
+    
+    Intermittent failure evident here:
+    https://travis-ci.org/bitcoin/bitcoin/jobs/344021180
+    
+    Github-Pull: #12545
+    Rebased-From: 0eb84f30d80847b7392ad42b2d916eaf5923a63c
+
+[33mcommit cfebd400ef4b26f5b6c1d8b31c6f5e0f09184dba[m
+Author: Karl-Johan Alm <karljohan-alm@garage.co.jp>
+Date:   Tue Feb 20 13:20:36 2018 +0900
+
+    [test] Round target fee to 8 decimals in assert_fee_amount
+    
+    The output would produce arbitrary number of decimal points, sometimes resulting in 9 decimals:
+    AssertionError: Fee of 0.00000415 BTC too low! (Should be 0.000006175 BTC)
+    The above looks like the expected fee is 6175 sats when in reality it's 618.
+    
+    Github-Pull: #12486
+    Rebased-From: 42e1b5d9797b65d3ce13a7cbace15fbedbcd4018
+
+[33mcommit 3567effe2049771a2201ae62f6edb06bf27634d2[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Feb 28 15:13:22 2018 -0800
+
+    Litecoin: v0.16.0 release notes
+
+[33mcommit 3f8b8a6c5f219b6b23dece2990c32f7a75ec69b9[m
+Author: Xinxi Wang <xinxi@coinut.com>
+Date:   Sun Mar 4 18:18:50 2018 +0000
+
+    Litecoin: M prefix added for script addresses
+
+[33mcommit 5480ad8e0cc8898cb532fdaa8ae74005c12bbc85[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Feb 18 20:09:25 2018 -0800
+
+    Litecoin: Add 0.15.1 to historic release notes
+
+[33mcommit dd392b9accc9a8a4260b0090f9d8219e48e7ebf5[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Feb 18 16:21:05 2018 -0800
+
+    Litecoin: Update Qt translations
+
+[33mcommit b741130553a8113e552c0eee7499dec16649c373[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Feb 14 15:58:10 2018 -0800
+
+    Litecoin: Update man pages
+
+[33mcommit 32ee7c79ae1a43352281b7dee0f479200f724db2[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Feb 13 13:02:09 2018 -0800
+
+    Litecoin: Fix tests
+
+[33mcommit f1e1ab4ebcd59b5bff7017539da92001f8b7594f[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Feb 13 11:48:07 2018 -0800
+
+    Litecoin: Update bech32 HRP's
+
+[33mcommit c080338943d9368adc5986adac1e992d86542732[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Thu Feb 8 14:02:38 2018 -0800
+
+    Litecoin: Update windeploy cert and timestamping server
+
+[33mcommit f117e96e0fdd241cedcdf1232ccc573bf83bef6d[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Feb 14 15:08:46 2018 -0800
+
+    Litecoin: Adjust fee system
+
+[33mcommit 9ceb94dcff2c0f2e71501fff56c51a26a7b68d7b[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Thu Aug 17 16:33:50 2017 -0700
+
+    Litecoin: Release notes for v0.15.1
+
+[33mcommit 7925bde07732148a7fd2f3cea61b5736235c1bc8[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Aug 20 18:23:00 2017 -0700
+
+    Litecoin: Update trusted keys
+    
+    GPG keys for coblee, shaolinfry, thrasher and xinxi
+
+[33mcommit a4d46721b1dddb46f9936597c6660e1e30862e31[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Feb 13 03:43:33 2018 -0800
+
+    Litecoin: Adjust Travis
+
+[33mcommit 08f253886293bc0a91567111c6e22a9589b0c9c1[m
+Author: Romano <romanornr@gmail.com>
+Date:   Mon Aug 14 13:36:49 2017 +1000
+
+    Litecoin: Enable support for SSE2 instructions in scrypt via configure --enable-sse2 (#362)
+
+[33mcommit 020b92fb75e2a2f6f040927803e8861242ada464[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Thu Aug 17 00:51:07 2017 -0700
+
+    Litecoin: Update chainparams and blockchain size
+
+[33mcommit e4aa27247856c14da36d8766d32ab83589064c75[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Wed Aug 16 23:49:29 2017 -0700
+
+    Litecoin: Update hardcoded seeds
+
+[33mcommit 5dab5e6757e888803ccbaa9a7912d244a97b18f0[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Aug 8 21:47:27 2017 -0700
+
+    Litecoin: Adjust splashscreen for testnet/regtest
+
+[33mcommit a74a01e617c82690ee14cfade8db1f01af869ff4[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Tue Nov 1 05:28:11 2016 -0700
+
+    Litecoin: Branding
+
+[33mcommit 845838c4451ecd1f7e988e7538a4d82f80b73670[m
+Merge: 46ca8f383 f3b8d85b4
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Wed Mar 14 16:15:54 2018 +0100
+
+    Merge #12636: backport: #11995 Fix Qt build with Xcode 9
+    
+    f3b8d85 devtools: Exclude patches from lint-whitespace GitHub-Pull: #12442 Rebased-From: fafbf7f (MarcoFalke)
+    686cb86 [Depends] Fix Qt build with Xcode 9.2 (fanquake)
+    
+    Pull request description:
+    
+      GitHub-Pull: #11995
+      Rebased-From: 2b1f794
+    
+    Tree-SHA512: 73d1c0a87fd135f3ad8bb737b97037ef047e582c41a7473833e82776957caf372fcd0caa764fc4eed792e9998e214ae829bad5535db6d589827085a74b0fa6f4
+
+[33mcommit f3b8d85b4ba8945eb811851d83bbaef6a7583879[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Thu Feb 15 14:37:31 2018 -0500
+
+    devtools: Exclude patches from lint-whitespace
+    GitHub-Pull: #12442
+    Rebased-From: fafbf7f
+
+[33mcommit 46ca8f383e53a3cf93d7ea9425e55ef972e8939b[m
+Merge: 60086ddc3 faf316a43
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Mar 13 16:17:12 2018 +0100
+
+    Merge #12648: [0.16] test: Update trusted git root
+    
+    faf316a43 test: Update trust git root (Wladimir J. van der Laan)
+    
+    Pull request description:
+    
+      Marco Falke's old key expired, causing a travis error while verifying
+      commits 36afd4db4442c45d4078b1a7ad16a1872b5bee0d and before:
+    
+          gpg: Good signature from "Marco Falke <marco.falke@tum.de>" [unknown]
+          gpg:                 aka "Marco Falke <falke.marco@gmail.com>" [unknown]
+          gpg: Note: This key has expired!
+          Primary key fingerprint: B8B3 F1C0 E58C 15DB 6A81  D30C 3648 A882 F431 6B9B
+            Subkey fingerprint: FE09 B823 E6D8 3A3B C798  3EAA 2D7F 2372 E50F E137
+    
+      Update the trusted root commit to the commit after that, to fix
+      this issue.
+    
+      (cherry picked from commit 7deba93bdc76616011a9f493cbc203d60084416f)
+    
+    Tree-SHA512: c86cc23d087af54a1448545c122fc67a0c556b5eac8ac7d16eeec8c42d8d0d81b7b5041f9a175787604aa47883b68403cfa01c10a52db64e35be52e559b20ec8
+
+[33mcommit 686cb86002075acfe4ec4228425d3db52b5e23f6[m
+Author: fanquake <fanquake@gmail.com>
+Date:   Sun Nov 19 09:30:08 2017 +0800
+
+    [Depends] Fix Qt build with Xcode 9.2
+    
+    GitHub-Pull: #11995
+    Rebased-From: 2b1f794
+
+[33mcommit faf316a43f2fe83fa39af95007692ec1f0efdde1[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Mar 6 09:00:42 2018 -0500
+
+    test: Update trust git root
+    
+    Marco Falke's old key expired, causing a travis error while verifying
+    commits 36afd4db4442c45d4078b1a7ad16a1872b5bee0d and before:
+    
+        gpg: Good signature from "Marco Falke <marco.falke@tum.de>" [unknown]
+        gpg:                 aka "Marco Falke <falke.marco@gmail.com>" [unknown]
+        gpg: Note: This key has expired!
+        Primary key fingerprint: B8B3 F1C0 E58C 15DB 6A81  D30C 3648 A882 F431 6B9B
+          Subkey fingerprint: FE09 B823 E6D8 3A3B C798  3EAA 2D7F 2372 E50F E137
+    
+    Update the trusted root commit to the commit after that, to fix
+    this issue.
+    
+    (cherry picked from commit 7deba93bdc76616011a9f493cbc203d60084416f)
+
+[33mcommit 60086ddc34eede0312e5ca2688bbbd01a373fa0a[m
+Merge: 72a3290c9 e730b82b0
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Wed Mar 7 16:13:38 2018 -0500
+
+    Merge #12637: backport: #12556 fix version typo in getpeerinfo RPC call help
+    
+    e730b82b07 fix version typo (Tamas Blummer)
+    
+    Pull request description:
+    
+      GitHub-Pull: #12556
+      Rebased-From: d16bfaa
+    
+    Tree-SHA512: b6626fabdd5f493016334ada0182565c7f834a22dc08dc846c71a190e61193dd4e28754e67b20086d9afeab9a58e38c3621c614eadf368b2d35b9c08a843356a
+
+[33mcommit e730b82b074a9994e8873cf83175b83820f012c1[m
+Author: Tamas Blummer <tamas.blummer@gmail.com>
+Date:   Tue Feb 27 11:43:46 2018 +0100
+
+    fix version typo
+    
+    GitHub-Pull: #12556
+    Rebased-From: d16bfaa
+
+[33mcommit 72a3290c901281e2d681950fefa306d38ce9edae[m
+Merge: a17fecfdf 25afebc2b
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Mon Mar 5 08:01:15 2018 -0500
+
+    Merge #12585: [0.16] depends: Switch to downloading expat from GitHub
+    
+    25afebc2ba depends: Switch expat download to GitHub (fanquake)
+    
+    Pull request description:
+    
+      @droark [mentioned](https://github.com/bitcoin/bitcoin/pull/12402#issuecomment-370098383) the expat download was failing when trying to gitian build 0.16.
+      I tried locally and also saw issues:
+      ```
+      make download
+      Checksum missing or mismatched for expat source. Forcing re-download.
+      Fetching expat-2.2.1.tar.bz2 from https://downloads.sourceforge.net/project/expat/expat/2.2.1
+        % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                       Dload  Upload   Total   Spent    Left  Speed
+        0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+      100   652  100   652    0     0    361      0  0:00:01  0:00:01 --:--:--     0
+      /Users/xxx/Github/bitcoin/depends/work/download/expat-2.2.1/expat-2.2.1.tar.bz2.temp: FAILED
+      shasum: WARNING: 1 computed checksum did NOT match
+      Fetching expat-2.2.1.tar.bz2 from https://bitcoincore.org/depends-sources
+        % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                       Dload  Upload   Total   Spent    Left  Speed
+        0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+      curl: (22) The requested URL returned error: 404 Not Found
+      make[1]: *** [/Users/xxx/Github/bitcoin/depends/sources/download-stamps/.stamp_fetched-expat-expat-2.2.1.tar.bz2.hash] Error 22
+      make: *** [download-linux] Error 2
+      ```
+      This switches to downloading from GitHub, as we are doing in master.
+    
+    Tree-SHA512: 0e3072ce4d8fee3e2bc434afc7469968c21e01ca35aa2ccbffc25f8e9b00af2e4a5f3f9e4cd5c0cd8e72a10b16205236eb0536380849109a739c09358dbc1394
+
+[33mcommit fee6799b1257f82215729c74f64234b6688d7611[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Jan 29 07:00:00 2017 -0800
+
+    Litecoin: Protocol and default settings
+    
+    0) Adjust BIP30 enforcement values
+    
+    1) Reduce amount that peers can adjust our time to eliminate an attack vector. Thanks to
+    coblee for this fix.
+    
+    2) Zeitgeist2 patch - thanks to Lolcust and ArtForz. This fixes an issue where a
+    51% attack can change difficulty at will. Go back the full period unless it's the
+    first retarget after genesis.
+    
+    3) Avoid overflow in CalculateNextWorkRequired(). Thanks to pooler for the overflow fix.
+    
+    4) Zeitgeist2 bool fshift bnNew.bits(). Thanks to romanornr for this path.
+    
+    5) SegWit ContextualCheckBlockHeader adjustment and extra coverage.
+    
+    6) Reject peer proto version below 70002. Thanks to wtogami for this patch.
+    
+    7) Send final alert message to nodes warning about removal of the alert system. Thanks to coblee for this patch.
+    
+    8) Adjust default settings for Litecoin.
+
+[33mcommit 25afebc2ba41a581f3b4689cf6f50d1073c3f94d[m
+Author: fanquake <fanquake@gmail.com>
+Date:   Sat Mar 3 11:58:25 2018 +0800
+
+    depends: Switch expat download to GitHub
+
+[33mcommit a17fecfdf0d78cf964e06d4b39b9cee9a97b7fde[m
+Merge: ea2e39fd2 faa6dd27b
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu Mar 1 19:38:22 2018 +0100
+
+    Merge #12518: [0.16]  Bump leveldb subtree
+    
+    835a21b Squashed 'src/leveldb/' changes from c521b3ac65..64052c76c5 (MarcoFalke)
+    
+    Pull request description:
+    
+      The leveldb bump is the same branch/commit as in #12451
+    
+    Tree-SHA512: 585a55747c75e990c9fd73399e98e548c01bef8b960c0a99844326de43663d004d2211b4689518f2d3e51cc48a732e9c92082939c356793143db411224fa75fa
+
+[33mcommit ea2e39fd2004e83375c1703543e32a10e3b9d981[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Feb 27 15:50:18 2018 +0100
+
+    qt: Remove faulty and unnecessary en_US translation
+    
+    This faulty translation contained Chinese messages, and as en_US is our
+    source language, having a separate translation for it is pointless, remove it.
+    
+    Tree-SHA512: 8493876926355890aa3b713851ed53d37ffe601280f7e0f45461abfe9671af10dc5c6ce966adb89b663486a46df43b0a36b797da7e1cd719597a7e15914bd4a2
+
+[33mcommit 01f931b928fbe0266b3a8d48d0fb2ecc728bd7f3[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Fri Feb 16 11:57:46 2018 +0100
+
+    test: Add missing signal.h header
+    
+    util_tests.cpp needs to include the signal.h header on FreeBSD.
+    
+    Reported by denis2342 on IRC.
+    
+    Github-Pull: #12447
+    Rebased-From: dd7e42cbb4390788705031ffa0bc893d26f0597e
+    Tree-SHA512: 10ead029bb59f5d69e37b5679c710f22d64051de26e1ec8342eec4e4dec4d76249e16dff78d192972bcb8d139d99c7555a7cb2fe43b2b911103eab6d6f943b79
+
+[33mcommit 5d41110c745c74e1eeb85f187f54777bf5e6407f[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Feb 27 10:46:47 2018 +0100
+
+    doc: Clear out release notes post-0.16.0
+    
+    Moved to: https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.16.0.md
+    
+    Tree-SHA512: 6619521357a1baa5df2d4deb9e75784f6f48711a7b5d5120cf02b47a80e242e41dcf34dadfd1b257bbdcd883c7dd216d36fbfff24abcf03c590bbf0f6bbec520
+
+[33mcommit ecf6fd0aab0a134ec42e19b46ec0da77785eeeda[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Thu Dec 29 10:28:32 2016 -0800
+
+    Litecoin: Fix copyright year value
+
+[33mcommit bedc323373fabfeb4947a295926305f6a77b7b39[m
+Author: shaolinfry <shaolinfry@protonmail.ch>
+Date:   Mon Jan 9 07:21:45 2017 +0000
+
+    Litecoin: Update gitian descriptors
+
+[33mcommit e838c2797183edca8233ae7753759f0485fc24e3[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Sun Feb 18 16:14:53 2018 -0800
+
+    Litecoin: Fix various tests
+
+[33mcommit d429c192abf96286c3dcb4d7740cafd8e2f95f77[m
+Author: shaolinfry <shaolinfry@protonmail.ch>
+Date:   Sat Feb 18 11:27:53 2017 +0000
+
+    Litecoin: Developer gpg keys
+
+[33mcommit 029707c6eee268482ba33be2380e0ac97a57578f[m
+Author: Martin Smith <me@133.io>
+Date:   Tue Nov 15 00:45:56 2016 +1100
+
+    Litecoin: Add Litecoin logos and icons
+    
+    # Conflicts:
+    #       share/pixmaps/nsis-header.bmp
+    #       share/pixmaps/nsis-wizard.bmp
+
+[33mcommit 4b588c670cca56e1addec2bc8fb69528e9c7a0bb[m
+Author: shaolinfry <shaolinfry@protonmail.ch>
+Date:   Sat Feb 18 11:13:07 2017 +0000
+
+    Litecoin: Add scrypt N=1024 PoW
+
+[33mcommit cbf7b9c79df9a49f796e0020d02b81c85c3f36e9[m
+Author: shaolinfry <shaolinfry@protonmail.ch>
+Date:   Sat Feb 18 12:21:43 2017 +0000
+
+    Litecoin: Adjust chain parameters
+
+[33mcommit f0e0dcaaaa5af599a13b287fda145f135871d5be[m
+Author: shaolinfry <shaolinfry@protonmail.ch>
+Date:   Sat Feb 18 13:38:09 2017 +0000
+
+    Litecoin: Add historical release notes
+
+[33mcommit 435fb3bddc03ec13e714ec7e8921b64c2f1d0bee[m
+Author: Adrian Gallagher <thrasher@addictionsoftware.com>
+Date:   Thu Oct 27 15:00:02 2016 -0700
+
+    Litecoin: Update README.md
+
+[33mcommit b0f692f81e22587ca98e893a6eb0b6246c5b62b0[m
+Author: Henrik Jonsson <me@hkjn.me>
+Date:   Fri Feb 16 17:49:51 2018 +0000
+
+    [depends] Allow depends system to support armv7l
+    
+    Github-Pull: #12474
+    Rebased-From: ac91ea64c2b1daec8fee0bfde443c18cf87595ae
+    Tree-SHA512: 61020cab59532738bc876fc4591923a5b48fee7c5729419bc42654d714cd6cad685e6482e199a17bb57ea97edcd129a15561939d55fa40661d8f051329942bdb
+
+[33mcommit 4b4d7eb255ca8f9a94b92479e6061d129c91a991[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu Feb 22 20:19:41 2018 +0100
+
+    doc: Remove note about temporary file from release notes
+    
+    About time, before tagging final.
+    
+    Tree-SHA512: d54d77a501d227183be7b136025e5ac5e883cd140867368aa552aae89680d536f35f7619f58506069b083c7f718506d42f871fb95e2dcb76ab01cd2159c664be
+
+[33mcommit faa6dd27b1f1f96f5e1a26e830e1a80255afdb5f[m
+Merge: 13e31dd65 835a21b42
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Fri Feb 16 09:01:35 2018 -0500
+
+    Bump leveldb subtree
+
+[33mcommit 835a21b42402d546bd72f8a3f452f0c743fefe82[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Fri Feb 16 08:59:04 2018 -0500
+
+    Squashed 'src/leveldb/' changes from c521b3ac65..64052c76c5
+    
+    64052c76c5 Merge #15: Add filename to corruption errors
+    135ed0fb4e Add filename to corruption errors
+    
+    git-subtree-dir: src/leveldb
+    git-subtree-split: 64052c76c567cff3dad32d1db0ef969d97b5882f
+
+[33mcommit a8e62a842615d338d41caf1603de4263a7f4bad8[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu Feb 15 23:31:59 2018 +0100
+
+    doc: Update release notes from wiki for rc3
+    
+    Tree-SHA512: ff0f10dc9672771a941a1bcbf098e7b17ced4c34bd47a1394f16ca0e6f5f4e74e3db4960b2f0a1e7f489e7c438104c32da7754304fc3d64ff29947405e680e1f
+
+[33mcommit 51093478c0e1d79b2aa4296c5f93dcf41c1ea92f[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu Feb 15 22:04:18 2018 +0000
+
+    qt: Pre-rc4 translations update
+    
+    Tree-SHA512: b209b5d404395c8031d92f332885f3ec8f8d040090b0afe55a8b915192c040494c387060cc8da4dd25bdb06d2633f8d42adae27a83933704cccf31d26ad0717c
+
+[33mcommit 3762ac127aec4d843fce8ca8335b3b06746fa0be[m
+Author: Pieter Wuille <pieter.wuille@gmail.com>
+Date:   Tue Feb 13 13:04:48 2018 -0800
+
+    Make signrawtransaction accept P2SH-P2WSH redeemscripts
+    
+    Github-Pull: #12427
+    Rebased-From: 5f605e172baee35421eb20736601befdd8cad796
+    Tree-SHA512: caf8c4e1806757d705493de30eea4f6a146a334ca6f6c93bc74cda43abda391b8406dd8ed6765fcde8eb86b3fb55689547ab69a30f34fca0d7896ea8c4e1db67
+
+[33mcommit ad10b90e502d97993ba6e2b07e3f744129344a28[m
+Author: Cory Fields <cory-nospam-@coryfields.com>
+Date:   Tue Feb 13 00:24:14 2018 -0500
+
+    fix possible shutdown assertion with -reindex-shutdown
+    
+    Credit @eklitzke for reproducing.
+    
+    Github-Pull: #12349
+    Rebased-From: ceaefdd5f362537a1908d0095059e4be788f3dee
+    Tree-SHA512: bdc614d3c3fba23147be9528c581e25bbf1f0c359b525b4a05472ab42484724a8b34c8b3ed151f3ff23e48235e972950f9daa155d9ca3c4a9de6d61bf0591b4b
+
+[33mcommit 4d54e7ad413b0113402a4d9546eb510d21ba2ecd[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Feb 13 13:53:17 2018 +0100
+
+    test: Add unit test for LockDirectory
+    
+    Add a unit test for LockDirectory, introduced in #11281.
+    
+    Github-Pull: #12422
+    Rebased-From: 1d4cbd26e4220982f7f2f60e447199d6f62ae254
+    Tree-SHA512: 8186f4b22c65153e30ec1e0b68be20fd59d34e1fe565d99f3b5a302780125953b867fb14c37144de3fd7baf5751df94bf3901eebbb7b820491ca452706d4e205
+
+[33mcommit 32a726846d191796ba76e844a9aa1e7da0a9ed13[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Tue Feb 13 14:12:30 2018 +0100
+
+    util: Fix multiple use of LockDirectory
+    
+    This commit fixes problems with calling LockDirectory multiple times on
+    the same directory, or from multiple threads. It also fixes the build on
+    OpenBSD.
+    
+    - Wrap the boost::interprocess::file_lock in a std::unique_ptr inside
+      the map that keeps track of per-directory locks. This fixes a build
+      issue with the clang 4.0.0+boost-1.58.0p8 version combo on OpenBSD
+      6.2, and should have no observable effect otherwise.
+    
+    - Protect the locks map using a mutex.
+    
+    - Make sure that only locks that are successfully acquired are inserted
+      in the map.
+    
+    - Open the lock file for appending only if we know we don't have the
+      lock yet - The `FILE* file = fsbridge::fopen(pathLockFile, "a");`
+      wipes the 'we own this lock' administration, likely because it opens
+      a new fd for the locked file then closes it.
+    
+    Github-Pull: #12422
+    Rebased-From: fc888bfcacb875c45bc8f9d7ca1357ab70a30490
+    Tree-SHA512: c8b8942fad9ea9d9e55f8e5e360f7cf3a8b00cd17e6bc5ec5895e1e6ddcbca796e62e82856e82f0562869a624d75ad510e108077461bb47a87b2b52be0aba866
+
+[33mcommit 5e40e64face29169ef355856dc0db46a98061046[m
+Author: Wladimir J. van der Laan <laanwj@gmail.com>
+Date:   Thu Feb 15 16:42:07 2018 +0100
+
+    travis: Don't fetch --unshallow when no longer shallow-cloning
+    
+    Tree-SHA512: a1a6d794431de9639dc985bd42f852f4e11cc2090a826c9a5c2f32658246f5a2a634f113b86ae66bf6222fe3180c3c23145bc297082ff9f61d3abbab5ac53341
+
+[33mcommit e2431d144aa84909b106a767634126ad5821dc90[m
+Author: MarcoFalke <falke.marco@gmail.com>
+Date:   Sat Feb 10 09:16:17 2018 -0500
+
+    travis: Full clone for git subtree check
+    
+    Github-Pull: #12388
+    
+    Tree-SHA512: 8dc7fd5619e60674021ef58f384ddaa2b0d49a88f8babab03697ab19819954f9521de0ede7398661be670ce6339bfea436b10ad916b72f194e18efdb3721c08d
+
+[33mcommit f8938248ef37f67986e36ef897a548123b2d7a36[m
+Author: João Barbosa <joao.paulo.barbosa@gmail.com>
+Date:   Mon Feb 12 11:17:36 2018 +0000
+
+    Interrupt loading thread after shutdown request
+    
+    Github-Pull: #12415
+    Rebased-From: 2e9406c0c588ddf6f039fd3ff73c978177483869
+    Tree-SHA512: ad70df9fdcba38bc9eeac4e4e64f7d8607fbe92aefac3579a26939e642112d70ebee81c5a227bb8735bae87f95640061a5ab22b583275c7dd6c3277544bc427b
